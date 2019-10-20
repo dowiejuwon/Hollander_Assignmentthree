@@ -27,7 +27,7 @@ class SavingsAccount{
 
 }
 
-public class Main {
+public class Problem2 {
     public static void main(String[] args) {
         SavingsAccount saver1 = new SavingsAccount(2000.00);
         SavingsAccount saver2 = new SavingsAccount(3000.00);
